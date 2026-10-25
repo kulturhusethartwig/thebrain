@@ -34,7 +34,7 @@ Gästabudet kan användas fristående eller kombineras med Katedralen, där det 
 
 **1960-talets renovering** — Mellanbjälklaget revs för att ge rummet sin nuvarande höjd och omvandla det till samlingssal. Kalkstensgolv lades, fönstren i nedre raden sattes in, läktaren byggdes och den murade spisen tillkom. Det är en årsring som respekterar platsen snarare än förnekar den.
 
-**Idag** — Hartwig öppnar valvsalen som konsert- och evenemangslokal. Rummet har genomgått flera funktionsförändringar — från bagarstuga och verkstad till samlingssal och nu kulturhus.
+**Idag** — Hartwig öppnar Gästabudet som konsert- och evenemangslokal. Rummet har genomgått flera funktionsförändringar — från bagarstuga och verkstad till samlingssal och nu kulturhus.
 
 ---
 
@@ -180,7 +180,7 @@ Följande bör beaktas vid planering:
 | Typ | URL | Beskrivning | Källa |
 |---|---|---|---|
 | Webbplats | https://kulturhusethartwig.se/posts/gastabudet | Officiell rumsbeskrivning med fotografier och bokningsinformation | Kulturhuset Hartwig |
-| Foto | [URL behöver kompletteras] | Historiskt inventeringsfoto av valvsalen | Stadsmuseet |
+| Foto | [URL behöver kompletteras] | Historiskt inventeringsfoto av Gästabudet | Stadsmuseet |
 | Foto | [URL behöver kompletteras] | Aktuellt fotografi av Gästabudet | Kulturhuset Hartwig |
 | 360-bild | [URL behöver kompletteras] | Interaktiv 360-visning finns på webbplatsen | Kulturhuset Hartwig |
 | 3D-modell | [Fyll i] | Ingen separat 3D-modell angiven | |
@@ -228,7 +228,7 @@ Pris och slutligt upplägg fastställs efter överenskommelse.
 
 ## Marknadsföringskontext
 
-När du skriver om Gästabudet eller Valvsalen — lyft gärna:
+När du skriver om Gästabudet — lyft gärna:
 
 - Att rummet troligen var bagarstuga på 1700-talet
 - Kryssvalven som är ursprungliga och bärande för karaktären
@@ -267,7 +267,7 @@ Gästabudet är Kulturhuset Hartwigs historiska valvsal, där två kryssvalv fr�
 ## Angränsande rum
 
 - **0.01** Hall/entré källare — ingång utifrån
-- **0.02** Passage — förbinder valvsalen med övriga källarrum
+- **0.02** Passage — förbinder Gästabudet med övriga källarrum
 - **0.04** Skrubb med tunnvalv
 - **0.05** WC
 - **1.03** Övre källarplan ovanför (läktarens nivå)

@@ -4,7 +4,7 @@ Verkliga eller konstruerade exempel på text som låter som Hartwig. Används av
 
 ---
 
-**Instagram — konsert i Valvsalen**
+**Instagram — konsert i Gästabudet**
 
 "Imorgon kväll spelar Kammarensemblen Söder i ett rum som troligen var bagarstuga på 1700-talet. Det märks fortfarande i akustiken."
 
@@ -30,6 +30,6 @@ Verkliga eller konstruerade exempel på text som låter som Hartwig. Används av
 
 **Mail dagen innan konsert**
 
-"Imorgon kväll i Valvsalen. Rummet har kryssvalv från 1700-talet — det märks när musiken börjar. Dörrar öppnar 18:30."
+"Imorgon kväll i Gästabudet. Rummet har kryssvalv från 1700-talet — det märks när musiken börjar. Dörrar öppnar 18:30."
 
 *Varför det funkar: bygger förväntning, lyfter platsen utan att bli tjatigt, kortfattat.*

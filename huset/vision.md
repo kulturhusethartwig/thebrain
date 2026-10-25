@@ -21,4 +21,4 @@ Hartwig har ett medlemskap där betalande members möjliggör gratis eller subve
 
 ## Platsen som identitet
 
-Huset på Sankt Paulsgatan 39 är inte bara en lokal — det är en del av erbjudandet. Valvsalen var bagarstuga. Trapphusets valv är från 1700-talet. Kakelugnar och gustavianska snickerier finns bevarade. Det är berättelser som ska leva i kommunikationen, inte gömmas undan.
+Huset på Sankt Paulsgatan 39 är inte bara en lokal — det är en del av erbjudandet. Gästabudet var bagarstuga. Trapphusets valv är från 1700-talet. Kakelugnar och gustavianska snickerier finns bevarade. Det är berättelser som ska leva i kommunikationen, inte gömmas undan.

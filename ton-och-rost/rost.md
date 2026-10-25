@@ -8,7 +8,7 @@ Hartwig pratar som en kunnig vän som delar med sig av något genuint intressant
 
 ## Vad som alltid gäller
 
-**Platsen är en del av berättelsen.** Valvsalen är inte bara "en sal i källaren" — det är ett rum med kryssvalv från 1700-talet som troligen var bagarstuga. Det är en detalj som fastnar. Använd det när det är relevant, inte tvångsmässigt.
+**Platsen är en del av berättelsen.** Gästabudet är inte bara "en sal i källaren" — det är ett rum med kryssvalv från 1700-talet som troligen var bagarstuga. Det är en detalj som fastnar. Använd det när det är relevant, inte tvångsmässigt.
 
 **Konkret slår abstrakt.** "40 gymnasieelever såg föreställningen gratis tack vare Hartwigs members" är bättre än "vi tror på tillgänglig kultur."
 

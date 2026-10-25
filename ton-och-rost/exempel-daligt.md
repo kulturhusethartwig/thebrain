@@ -14,7 +14,7 @@ Text som INTE låter som Hartwig. Används av Claude för att undvika fel ton.
 
 **För högtidlig**
 
-"Kulturhuset Hartwig har äran att presentera en exklusiv kammarkonsert i den magnifika Valvsalen, en av Stockholms mest kulturhistoriskt värdefulla miljöer."
+"Kulturhuset Hartwig har äran att presentera en exklusiv kammarkonsert i det magnifika Gästabudet, en av Stockholms mest kulturhistoriskt värdefulla miljöer."
 
 *Fel: "äran att presentera", "exklusiv", "magnifika" — det låter som ett statligt kulturhus från 1985.*
 
@@ -22,7 +22,7 @@ Text som INTE låter som Hartwig. Används av Claude för att undvika fel ton.
 
 **För informationstung**
 
-"Kammarensemblen Söder grundades 2018 och består av fem musiker med bakgrund från Kungliga Musikhögskolan. De spelar verk av Brahms, Schubert och Dvořák. Konserten äger rum i Valvsalen på källarplanet, rum 0.03 enligt Stadsmuseets inventering."
+"Kammarensemblen Söder grundades 2018 och består av fem musiker med bakgrund från Kungliga Musikhögskolan. De spelar verk av Brahms, Schubert och Dvořák. Konserten äger rum i Gästabudet på källarplanet, rum 0.03 enligt Stadsmuseets inventering."
 
 *Fel: Wikipedia-ton, för mycket fakta utan känsla, rumsnumret hör hemma i inventeringen inte i marknadsföringen.*
 
