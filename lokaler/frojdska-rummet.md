@@ -7,7 +7,7 @@
 
 ## Karaktär och känsla
 
-[Beskriv Fröjdska rummets karaktär — fyll i när du känner rummet bättre.]
+Ljust och härligt rejält hörnrum
 
 ---
 
