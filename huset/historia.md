@@ -62,7 +62,7 @@ Hartwickska huset på Sankt Paulsgatan 39 på Södermalm är en av Stockholms b�
 
 **1939–1960-talet** — Stockholms kommunala praktiska mellanskola (södra avdelningen) huserar i huset.
 
-**1960-talets renovering** — Hartwickska huset genomgår en omfattande renovering. Nästan alla fönster byts. Ventilation installeras. Valvsalen i källaren skapas genom att mellanjälklaget rivs. Kalkstensgolv läggs. Läktaren byggdes och den murade spisen tillkom.
+**1960-talets renovering** — Hartwickska huset genomgår en omfattande renovering. Nästan alla fönster byts. Ventilation installeras. Gästabudet i källaren skapas genom att mellanjälklaget rivs. Kalkstensgolv läggs. Läktaren byggdes och den murade spisen tillkom.
 
 **1975** — Stadsmuseet inventerar Hartwickska huset som en del av innerstadsinventeringen under 1970- och 1980-talet.
 
