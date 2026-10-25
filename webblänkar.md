@@ -1,7 +1,9 @@
 # Webblänkar — levande källor
 
-Dessa sidor hämtas automatiskt vid varje fråga och ger aktuell information
-som komplement till The Brain.
+Margareta läser de här sidorna när kunskapsbasen byggs om: en gång per dygn,
+när ett rum har sparats under Admin, och med knappen under Admin. Sidorna
+läses inte vid varje fråga. Texten delas i stycken som Chatta med Margareta
+kan hitta och hänvisa till, som komplement till resten av thebrain.
 
 ## Historia och kulturmiljö
 
@@ -14,6 +16,7 @@ som komplement till The Brain.
 
 ## Lägg till fler länkar här
 
-Format: en URL per rad, med bindestreck framför.
-Varje sida läses av och skickas som kontext till Claude.
-Max rekommenderat: 10 länkar (för att hålla svarstiden nere).
+Format: en adress per rad, med bindestreck framför.
+Högst 15 länkar läses; resten hoppas över.
+En sida som inte svarar inom tio sekunder hoppas över till nästa ombyggnad.
+Nya länkar kommer med först när kunskapsbasen byggs om.
