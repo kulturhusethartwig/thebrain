@@ -7,7 +7,8 @@
 **Mått:** 13,3 × 5,7 meter  
 **Kapacitet:** Max 90 personer  
 **Typ:** Konsertlokal, scenrum, konferenslokal och festlokal
-**Alkoholtillstånd
+
+**Alkohol:** Lokalen har alkoholtillstånd. Ingen alkohol får förtäras eller innehas. 
 
 ---
 
