@@ -2,7 +2,7 @@
 
 **Rumsnummer:** 0.03  
 **Plan:** Undre källare  
-**Adress:** Sankt Paulsgatan 39, Södermalm  
+**Adress:** Sankt Paulsgatan 39A, Södermalm  
 **Yta:** 75 kvm  
 **Mått:** 13,3 × 5,7 meter  
 **Kapacitet:** Max 90 personer  
@@ -98,9 +98,9 @@ Exakt mikrofonuppsättning, mixerbord, ljusstyrning och övrig teknisk utrustnin
 
 ### Tillgänglighet
 
-Gästabudet ligger på källarplanet och nås via entrén från Sankt Paulsgatan.
+Gästabudet ligger på källarplanet och nås via entrén från Sankt Paulsgatan 39A.
 
-För personer med rullstol eller nedsatt rörelseförmåga finns en ramp.
+För personer med rullstol eller nedsatt rörelseförmåga finns en ramp, som läggs ut temporärt, meddela innan. 
 
 På samma våningsplan finns två toaletter, varav en är tillgänglighetsanpassad.
 
@@ -152,6 +152,7 @@ Följande bör beaktas vid planering:
 - Lokalens historiska och byggnadsminnesliknande karaktär begränsar möjligheten till permanenta installationer.
 - Den faktiska publikkapaciteten påverkas av möblering, scenutformning och arrangemangets karaktär.
 - Läktaren nås via trappa och är inte tillgänglig för alla besökare.
+- Biosittning för cirka 80 personer är möjligt. 
 
 ---
 
