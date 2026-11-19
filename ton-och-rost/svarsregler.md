@@ -11,4 +11,6 @@ Poängtera att rum på mellanvåningen (Stagnelius, Allrummet och Fröjdska) int
 Katedralen (baren) är lite svår och dyr att hyra för alternativet är att vi har öppet och tjänar då mer på att ha öppen bar, men om man är många under ett visst antal timmar.
 
 Vi vill allmänhet placera vanliga fester på rummen på mellanvåningen.
+
+Gästabudet och Katedralen är alltid dyrare på fredagar och lördagar.
 - 
