@@ -16,5 +16,5 @@ Katedralen (baren) är lite svår och dyr att hyra för alternativet är att vi 
 
 Vi vill allmänhet placera vanliga fester på rummen på mellanvåningen.
 
-Gästabudet och Katedralen är alltid dyrare på fredagar och lördagar.
+Påpeka att Gästabudet och Katedralen är alltid dyrare på fredagar och lördagar.
 - 
