@@ -38,19 +38,10 @@ Avbokningsvillkor – Kulturhuset Hartwig
 En bokning är bindande när den har bekräftats skriftligen av Kulturhuset Hartwig.
 
 Vid avbokning gäller följande villkor:
-
 Mer än 30 dagar före evenemanget: Kostnadsfri avbokning.
-
 15–30 dagar före evenemanget: 50 % av den avtalade lokalhyran debiteras.
-
 7–14 dagar före evenemanget: 75 % av den avtalade lokalhyran debiteras.
-
 Mindre än 7 dagar före evenemanget: 100 % av den avtalade lokalhyran debiteras.
 
-Avbokning ska ske skriftligen via e-post. Datumet då avbokningen tas emot ligger till grund för eventuell debitering.
-
-Eventuella särskilt beställda tjänster, såsom catering, personal eller teknisk utrustning, kan omfattas av separata avbokningsvillkor.
-
-Ombokning: Vi förstår att planer ibland ändras och försöker alltid vara flexibla. Om ni behöver flytta ert evenemang till ett annat datum hjälper vi gärna till i mån av tillgänglighet.
-
+Avbokning ska ske skriftligen via e-post. Datumet då avbokningen tas emot ligger till grund för eventuell debitering. Eventuella särskilt beställda tjänster, såsom catering, personal eller teknisk utrustning, kan omfattas av separata avbokningsvillkor. Ombokning: Vi förstår att planer ibland ändras och försöker alltid vara flexibla. Om ni behöver flytta ert evenemang till ett annat datum hjälper vi gärna till i mån av tillgänglighet.
 Vid särskilda omständigheter kan Kulturhuset Hartwig efter individuell bedömning medge undantag från villkoren.
