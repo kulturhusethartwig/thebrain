@@ -45,3 +45,36 @@ Vid avbokning gäller följande villkor:
 
 Avbokning ska ske skriftligen via e-post. Datumet då avbokningen tas emot ligger till grund för eventuell debitering. Eventuella särskilt beställda tjänster, såsom catering, personal eller teknisk utrustning, kan omfattas av separata avbokningsvillkor. Ombokning: Vi förstår att planer ibland ändras och försöker alltid vara flexibla. Om ni behöver flytta ert evenemang till ett annat datum hjälper vi gärna till i mån av tillgänglighet.
 Vid särskilda omständigheter kan Kulturhuset Hartwig efter individuell bedömning medge undantag från villkoren.
+
+## Band som vill spela
+
+ej!
+
+Vad roligt att ni vill spela på Kulturhuset Hartwig!
+
+Vi vill gärna öppna huset för musiker och konstnärliga initiativ och ge fler möjlighet att möta en publik.
+
+Vi erbjuder därför möjligheten att genomföra konserter i egen regi hos oss. Ni får tillgång till lokalen och den befintliga utrustningen, inklusive ljud, ljus och scen.
+
+Förutsättningen är att ni själva ansvarar för arrangemanget i sin helhet, vilket innebär:
+
+Planering och förberedelser
+
+Marknadsföring och att bjuda in publik
+
+Eventuell biljettförsäljning
+
+Ljudteknik och genomförande
+
+Mottagande av publik
+
+Återställning av lokalen efter arrangemanget
+
+Vi har i dagsläget inte resurser att avsätta personal eller arbetstid före, under eller efter konserten.
+
+Tanken är att Hartwig ska vara en möjliggörande plats för kulturen, där musiker och andra kulturutövare får utrymme att förverkliga sina egna initiativ.
+
+Om detta upplägg passar er får ni gärna återkomma med förslag på datum och en kort beskrivning av vad ni vill göra.
+
+Vänliga hälsningar,
+Kulturhuset Hartwig
