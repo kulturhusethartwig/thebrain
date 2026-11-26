@@ -54,41 +54,26 @@ Vi vill gärna öppna huset för musiker och konstnärliga initiativ och ge fler
 
 Vi erbjuder därför möjligheten att genomföra konserter i egen regi hos oss. Ni får tillgång till lokalen och den befintliga utrustningen, inklusive ljud, ljus och scen. Förutsättningen är att ni själva ansvarar för arrangemanget i sin helhet, vilket innebär:
 
-Planering och förberedelser – ni ansvarar själva för planeringen av konserten.
-
-Marknadsföring och publik – ni ansvarar för att bjuda in och nå er publik, men vi hjälper gärna till att publicera evenemanget på vår hemsida och i våra sociala medier.
-
-Biljettförsäljning – vi har ett biljettsystem som ni kan använda.
-
-Ljudteknik och genomförande – ni ansvarar för genomförandet, men det finns personal på plats som kan hjälpa er att komma igång med ljud och ljus.
-
-Mottagande av publik – vid biljettbelagda evenemang behöver ni själva ha någon som tar emot publiken och kontrollerar biljetter.
-
-Återställning av lokalen efter arrangemanget.
+- Planering och förberedelser – ni ansvarar själva för planeringen av konserten.
+- Marknadsföring och publik – ni ansvarar för att bjuda in och nå er publik, men vi hjälper gärna till att publicera evenemanget på vår hemsida och i våra sociala medier.
+- Biljettförsäljning – vi har ett biljettsystem som ni kan använda.
+- Ljudteknik och genomförande – ni ansvarar för genomförandet, men det finns personal på plats som kan hjälpa er att komma igång med ljud och ljus.
+- Mottagande av publik – vid biljettbelagda evenemang behöver ni själva ha någon som tar emot publiken och kontrollerar biljetter.
+- Återställning av lokalen efter arrangemanget.
 
 Vi har i dagsläget begränsade resurser och kan därför inte avsätta arbetstid för produktion, administration eller genomförande av enskilda konserter utöver den hjälp som beskrivs ovan.
 
-Lokal, utrustning och pris
+Lokal, utrustning och pris:
 
 Vi erbjuder detta upplägg söndagar till torsdagar. Fredagar och lördagar behöver vi i första hand reservera för arrangemang som genererar större intäkter och bidrar till husets långsiktiga finansiering.
 
 Priset för en kväll i Gästabudet är 6 000 kr inklusive moms. Då ingår:
 
-Konsertlokal med scen och scenbelysning
+- Konsertlokal med scen och scenbelysning
+- Komplett PA-anläggning för 3–5 musiker, trumset, mikrofoner, medhörning, mixer osv
+- Hjälp med att komma igång med ljud och ljus
 
-Komplett PA-anläggning för 3–5 musiker
-
-Trumset
-
-Mikrofoner
-
-Medhörning
-
-Mixer
-
-Hjälp med att komma igång med ljud och ljus
-
-I det angränsande rummet, Katedralen, finns en öppen bar.
+I det angränsande rummet, Katedralen, finns en öppen bar!
 
 Vi vill verkligen att Hartwig ska vara en möjliggörande plats för kulturen, där musiker och andra kulturutövare får utrymme att förverkliga sina egna initiativ. Samtidigt behöver vi hitta former som är ekonomiskt hållbara både för oss och för er som arrangerar.
 
