@@ -48,33 +48,48 @@ Vid särskilda omständigheter kan Kulturhuset Hartwig efter individuell bedömn
 
 ## Band som vill spela
 
-ej!
-
 Vad roligt att ni vill spela på Kulturhuset Hartwig!
 
-Vi vill gärna öppna huset för musiker och konstnärliga initiativ och ge fler möjlighet att möta en publik.
+Vi vill gärna öppna huset för musiker och konstnärliga initiativ och ge fler möjlighet att möta en publik. Kulturhuset Hartwig drivs av en ideell förening där en stor del av arbetet sker på ideell basis. Vi befinner oss fortfarande i en uppstartsfas och finansierar i dagsläget verksamheten helt genom egna intäkter.
 
-Vi erbjuder därför möjligheten att genomföra konserter i egen regi hos oss. Ni får tillgång till lokalen och den befintliga utrustningen, inklusive ljud, ljus och scen.
+Vi erbjuder därför möjligheten att genomföra konserter i egen regi hos oss. Ni får tillgång till lokalen och den befintliga utrustningen, inklusive ljud, ljus och scen. Förutsättningen är att ni själva ansvarar för arrangemanget i sin helhet, vilket innebär:
 
-Förutsättningen är att ni själva ansvarar för arrangemanget i sin helhet, vilket innebär:
+Planering och förberedelser – ni ansvarar själva för planeringen av konserten.
 
-Planering och förberedelser
+Marknadsföring och publik – ni ansvarar för att bjuda in och nå er publik, men vi hjälper gärna till att publicera evenemanget på vår hemsida och i våra sociala medier.
 
-Marknadsföring och att bjuda in publik
+Biljettförsäljning – vi har ett biljettsystem som ni kan använda.
 
-Eventuell biljettförsäljning
+Ljudteknik och genomförande – ni ansvarar för genomförandet, men det finns personal på plats som kan hjälpa er att komma igång med ljud och ljus.
 
-Ljudteknik och genomförande
+Mottagande av publik – vid biljettbelagda evenemang behöver ni själva ha någon som tar emot publiken och kontrollerar biljetter.
 
-Mottagande av publik
+Återställning av lokalen efter arrangemanget.
 
-Återställning av lokalen efter arrangemanget
+Vi har i dagsläget begränsade resurser och kan därför inte avsätta arbetstid för produktion, administration eller genomförande av enskilda konserter utöver den hjälp som beskrivs ovan.
 
-Vi har i dagsläget inte resurser att avsätta personal eller arbetstid före, under eller efter konserten.
+Lokal, utrustning och pris
 
-Tanken är att Hartwig ska vara en möjliggörande plats för kulturen, där musiker och andra kulturutövare får utrymme att förverkliga sina egna initiativ.
+Vi erbjuder detta upplägg söndagar till torsdagar. Fredagar och lördagar behöver vi i första hand reservera för arrangemang som genererar större intäkter och bidrar till husets långsiktiga finansiering.
 
-Om detta upplägg passar er får ni gärna återkomma med förslag på datum och en kort beskrivning av vad ni vill göra.
+Priset för en kväll i Gästabudet är 6 000 kr inklusive moms. Då ingår:
 
-Vänliga hälsningar,
-Kulturhuset Hartwig
+Konsertlokal med scen och scenbelysning
+
+Komplett PA-anläggning för 3–5 musiker
+
+Trumset
+
+Mikrofoner
+
+Medhörning
+
+Mixer
+
+Hjälp med att komma igång med ljud och ljus
+
+I det angränsande rummet, Katedralen, finns en öppen bar.
+
+Vi vill verkligen att Hartwig ska vara en möjliggörande plats för kulturen, där musiker och andra kulturutövare får utrymme att förverkliga sina egna initiativ. Samtidigt behöver vi hitta former som är ekonomiskt hållbara både för oss och för er som arrangerar.
+
+Om upplägget passar er får ni gärna titta i kalendern på vår hemsida efter ett ledigt datum i Gästabudet och återkomma med förslag på datum och en kort beskrivning av vad ni vill göra.
